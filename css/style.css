@@ -1,0 +1,18 @@
+ div{
+    width: 350px;
+    height: 220px;
+}
+
+.box1{
+    border-color: green;
+    border-style: solid;
+    border-bottom-color: green;
+    border-width: 15px 10px  20px 10px;
+    border-bottom-right-radius: 30%;
+
+    margin-top: 16px;
+    margin-left: 18px;
+
+    padding-top: 25px;
+    padding-left: 30px;
+}
